@@ -60,7 +60,7 @@ A brief description of the project, its purpose, and its audience.
 - [Architecture Overview](./docs/ARCHITECTURE.md)
 - [Environment Configuration](./docs/ENVIRONMENT.md)
 - [Testing Guide](./docs/TESTING.md)
-- [Contrubition Guidelines]
+- [Contrubition Guidelines](./docs/CONTRIBUTING.md)
 
 ## License
 
