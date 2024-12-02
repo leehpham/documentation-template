@@ -58,6 +58,9 @@ A brief description of the project, its purpose, and its audience.
 
 - [API Documentation](./docs/api.md)
 - [Architecture Overview](./docs/ARCHITECTURE.md)
+- [Environment Configuration](./docs/ENVIRONMENT.md)
+- [Testing Guide](./docs/TESTING.md)
+- [Contrubition Guidelines]
 
 ## License
 
