@@ -57,6 +57,7 @@ A brief description of the project, its purpose, and its audience.
 ## Documentation
 
 - [API Documentation](./docs/api.md)
+- [Architecture Overview](./docs/ARCHITECTURE.md)
 
 ## License
 
